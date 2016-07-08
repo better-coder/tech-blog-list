@@ -14,3 +14,4 @@
 - [Mixpanel](https://code.mixpanel.com/)
 - [Medium](https://medium.com/medium-eng)
 - [Stack Overflow](http://blog.stackoverflow.com/engineering/)
+- [美团技术团队](http://tech.meituan.com/)
